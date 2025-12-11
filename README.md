@@ -22,7 +22,6 @@
 ## 🔧 Projects & Interests
 
 - 💡 **Verilog Projects**: Implemented a Frequency Counter on CPLD using VHDL/Verilog.  
-- 🧮 **Cryptography**: Explored Hill Cipher over \( \mathbb{Z}_{27} \), including decoding logic and matrix invertibility.
 - 🧠 **Entrepreneurial Dreams**: A future business founder, seeking to blend coding, creativity, and leadership.
 
 ## 🧠 I Believe In
